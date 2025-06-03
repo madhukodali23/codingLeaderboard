@@ -24,21 +24,21 @@ const LeaderboardRow = props => {
       case 1:
         return (
           <Badge
-            src="https://assets.ccbp.in/frontend/hooks/gold-badge-img.png"
+            src='https://assets.ccbp.in/frontend/hooks/gold-badge-img.png'
             alt={rank}
           />
         )
       case 2:
         return (
           <Badge
-            src="https://assets.ccbp.in/frontend/hooks/silver-badge-img.png"
+            src='https://assets.ccbp.in/frontend/hooks/silver-badge-img.png'
             alt={rank}
           />
         )
       case 3:
         return (
           <Badge
-            src="https://assets.ccbp.in/frontend/hooks/bronze-badge-img.png"
+            src='https://assets.ccbp.in/frontend/hooks/bronze-badge-img.png'
             alt={rank}
           />
         )
