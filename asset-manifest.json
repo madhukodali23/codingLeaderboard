@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/codingLeaderboard/static/js/main.ce0bc963.js",
+    "main.js": "/codingLeaderboard/static/js/main.3420f67c.js",
     "index.html": "/codingLeaderboard/index.html",
-    "main.ce0bc963.js.map": "/codingLeaderboard/static/js/main.ce0bc963.js.map"
+    "main.3420f67c.js.map": "/codingLeaderboard/static/js/main.3420f67c.js.map"
   },
   "entrypoints": [
-    "static/js/main.ce0bc963.js"
+    "static/js/main.3420f67c.js"
   ]
 }
